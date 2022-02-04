@@ -1,6 +1,10 @@
--=+>] PROJECTS.md [<+=-
+|PROJECTS.md|
+|-----------|
 
-Projects list:
-- MondayNightModdin - FNF Mod loader  - On hold, due to certain issues
-- XenCode           - Text editor     - Taking a break from this
-- Mina              - A web browser   - May remake this soon
+# Project list
+|Name|Project Type|Status|
+|----|------------|------|
+|MondayNightModdin|FNF Mod loader|On Hold|
+|XenCode|Text editor|On Hold|
+|Mina|Web browser|Complete, but bad.|
+|GDTools|Tools for a game|Active Development|
