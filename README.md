@@ -1,4 +1,7 @@
--=+>] README.md [<+=-
+|README.md|
+|---------|
 
-Heyo! I'm XenithMusic!
-Check out <a href="https://github.com/XenithMusic/XenithMusic/blob/f6d7c8f59af83ef97e72abeea4f0b005011a5b81/PROJECTS.md">PROJECTS.md</a> if you want to see my current projects
+# Hello!
+Hi!<br>
+My name is XenithMusic, and I am a computer programmer!<br>
+I've made several projects over the years, and a list of some of the latest ones can be found by clicking [here!](PROJECTS.md)
