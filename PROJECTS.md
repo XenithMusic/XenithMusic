@@ -6,6 +6,5 @@
 |----|------------|------|
 |MondayNightModdin|FNF Mod loader|On Hold|
 |XenCode|Text editor|On Hold|
-|Mina|Web browser|Complete, but bad.
-Remake soon maybe?|
+|Mina|Web browser|Complete, but bad. Remake soon maybe?|
 |GDTools|Tools for a game|Active Development|
