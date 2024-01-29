@@ -1,4 +1,4 @@
-|PROJECTS.md|
+|`PROJECTS.md`|
 |-----------|
 
 # Project list
